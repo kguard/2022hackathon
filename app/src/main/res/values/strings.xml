@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">hackathon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="firstTest1">1. 포켓몬 빵 사수하기</string>
+    <string name="firstTest2">다영이는 친구들과 선착순으로 판매하는 \n 포켓몬 빵을 구매하기 위해 아침 일찍 만나기로 했습니다.</string>
+    <string name="firstTest3">편의점에는 다영, 경호, 회민이 순으로 도착했습니다.</string>
+    <string name="firstTest4">다음 중, 포켓몬 빵을 살 수 있는 사람의 순서를 \n 잘 말 한 사람은 누구일까요?</string>
+    <string name="firstTestAnswer1">① 다영 > 경호 > 회민</string>
+    <string name="firstTestAnswer2">② 회민 > 경호 > 다영</string>
+    <string name="firstTestAnswer3">③ 경호 > 회민 > 다영 </string>
+    <string name="secondTest1">2. 원판을 옮기자</string>
+    <string name="secondTest2">회민이는 친구들과 원판 옮기기 게임을 하고있습니다.</string>
+    <string name="secondTest3">다음 그림 중, 원판 4개로 3번을 옮겼을 때 \n나올 수 있는 원탑은 무엇일까요?</string>
+    <string name="secondTest4">규칙 1. 한 번에 가장 위에 있는 원판 한 개만 옮길 수 있다</string>
+    <string name="secondTest5">규칙 2. 큰 원판은 항상 작은 원판 아래에 있어야 한다</string>
+    <string name="thirdTest1">3. 핼러윈 맞이 반장의 가정방문</string>
+    <string name="thirdTest2">방울 초등학교에 다니는 반장 경호는 핼러윈을 맞아\n 반 친구들에게 사탕을 전달해 주려고 합니다.</string>
+    <string name="thirdTest3">규칙 1. 경호는 집에서 왼쪽 동네에서\n 가까운 집부터 방문하고,\n 오른쪽 동네로 이동한다고 합니다.</string>
+    <string name="thirdTest4">경호가 만나는 친구의 순서를 잘 말 한 사람은 누구일까요?</string>
+    <string name="thirdAnswer1">① 다영 > 회민 > 태규 > 민지 > 성주 > 영채 > 시현 > 의년 > 지훈</string>
+    <string name="thirdAnswer2">② 다영 > 회민 > 민지 > 태규 > 성주 > 의년 > 시현 > 지훈 > 영채</string>
+    <string name="thirdAnswer3">③ 영채 > 시현 > 지훈 > 의년 > 다영 > 태규 > 성주 > 민지 > 회민</string>
+    <string name="thirdAnswer4">④ 영채 > 시현 > 의년 > 지훈 > 다영 > 회민 > 태규 > 민지 > 성주</string>
+    <string name="firstQuiz1">1. 과자 먼저 먹기</string>
+    <string name="firstQuiz2">다영이를 포함한 4명의 친구들이 과자를 안이 보이지 않는 상자 안에 차곡차곡 쌓은 다음,\n 과자를 하나씩 꺼내 먹기로 했습니다.</string>
+    <string name="firstQuiz3">다영이가 넣은 과자를 제일 먼저 먹으려면\n 다영이는 과자를 몇 번째에 넣으면 될까요?</string>
+    <string name="firstQuizAnswer1">① 1번째</string>
+    <string name="firstQuizAnswer2">② 2번째</string>
+    <string name="firstQuizAnswer3">③ 3번째</string>
+    <string name="firstQuizAnswer4">④ 4번째</string>
+    <string name="firstQuizRed">정답: ④ 4번째 \n 풀이: 다영이가 상자에 과자를 마지막에 넣으면 \n 상자 맨위에 과자가 있게 됩니다.</string>
+    <string name="secondQuiz1">2. 책 정리하기</string>
+    <string name="secondQuiz2">방울이는 책장 속 책들을 무지개 순서로\n 정리하려고 합니다.</string>
+    <string name="secondQuiz3">규칙 1. 바로 양 옆에 붙어있는 책들끼리만\n 바꿀 수 있습니다!</string>
+    <string name="secondQuiz4">지금 책들의 순서는 다음과 같습니다. \n 다음 중 방울이가 해야 할 행동은 무엇일까요?</string>
+    <string name="secondQuizAnswer1">① 초록색 책과 보라색 책을 바꾼 후, 초록색 책과 파랑색 책을 바꾼다.</string>
+    <string name="secondQuizAnswer2">② 파랑색 책과 보라색 책을 바꾼 후, 파랑색 책과 초록새 책을 바꾼다.</string>
+    <string name="secondQuizAnswer3">③ 파랑색 책과 노랑색 책을 바꾼 후, 초록색 책과 보라색 책을 바꾼다.</string>
+    <string name="secondQuizRed1">정답: ① 초록색 책과 보라색 책을 바꾼 후,\n 초록색 책과 파랑색 책을 바꾼다. </string>
+    <string name="secondQuizRed2">풀이: 초록색 책과 보라색 책을 바꾸면,\n 빨-주-노-파-초-보 순서가 됩니다.\n그 다음에 초록색 책과 파랑색 책을 바꾸면,\n 빨-주-노-초-파-보의 무지개 순서가 됩니다.</string>
+
+</resources>

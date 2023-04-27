@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "601029330742",
+    "project_id": "hackaton-95c5f",
+    "storage_bucket": "hackaton-95c5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601029330742:android:6278b598d33a5382c59597",
+        "android_client_info": {
+          "package_name": "com.kguard.hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601029330742-o74lqsgn83r35k7624g6ero190ft33is.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kguard.hackathon",
+            "certificate_hash": "97c55ec23912407c69d708a20338b677aa805149"
+          }
+        },
+        {
+          "client_id": "601029330742-l1ol1738io2c1v4t93lasoo84fhp8p4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL0IGVzLM-vNUenSfOPHkKSyV0RG1BGAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601029330742-l1ol1738io2c1v4t93lasoo84fhp8p4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
